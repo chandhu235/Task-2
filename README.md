@@ -4,18 +4,18 @@
  Objective : Created a dynamic To-Do list where users can add, remove, and mark tasks complete.
  Tools Used : VS Code, Chrome Browser, live-server.
  
- 1.Setup basic HTML with input, add button, and list container.
+ 1. Setup basic HTML with input, add button, and list container.
  
- 2.Style layout with CSS for clarity.
+ 2. Style layout with CSS for clarity.
  
- 3.Use JS to add event listeners on the Add button.
+ 3. Use JS to add event listeners on the Add button.
  
- 4.Append new tasks as list items dynamically.
+ 4. Append new tasks as list items dynamically.
  
- 5.Implement functionality to mark tasks complete (toggle class).
+ 5. Implement functionality to mark tasks complete (toggle class).
  
- 6.Add remove button for each task to delete it.
+ 6. Add remove button for each task to delete it.
  
- 7.Test adding, completing, and deleting tasks.
+ 7. Test adding, completing, and deleting tasks.
  
- 8.Ensure UI updates instantly without page reload.
+ 8. Ensure UI updates instantly without page reload.
